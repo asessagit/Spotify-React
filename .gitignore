@@ -23,5 +23,5 @@ yarn-error.log*
 # Arquivos ou pastas de teste de cobertura (se existirem)
 coverage/
 
-# Outros arquivos gerados pelo sistema .
+# Outros arquivos gerados pelo sistema 
 .DS_Store
